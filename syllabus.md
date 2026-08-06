@@ -95,7 +95,7 @@ appreciated.)
 
 ## Note on the use of generative artificial intelligence (AI)
 
-You _may_ use generative AI for this assignment, but you should
+You _may_ use generative AI for assignments, but you should
 not use it to write for you. You might use ChatGPT or Claude, for example, to
 formulate ideas or to discuss your argument and/or thesis statement.
 
@@ -221,7 +221,7 @@ and resources.
 - Basic Colab operations
 - **Homework**
   - Plato, _Ion_
-  - Posner, Miriam. 2013. "How did they build that?"
+  - Posner, Miriam. 2014. "How did they make that?"
 
 ### 2. September 21
 
@@ -241,26 +241,24 @@ and resources.
 - Finding and cleaning data sources
 - Programming with Python
   - String manipulation
-  - Lists and dictionaries
+  - Lists and dictionaries review
   - Modules, classes, and functions
   - Installing external libraries
   - The built-in `collections` module
 - **Homework**
   - Moretti, Franco. 2003. “Graphs, Maps, Trees – 1.” _New Left Review_ 24: 67–93.
-  - Plato, _Republic_ (selections)
 
 ### 4. October 5
 
 - Reading quiz
 - Programming with Python
-  - Working with different data formats
-  - XML
-  - JSON
-  - **Word counting lab**: Using the Python that you have learned so far, try
-    finding keywords or most frequent words in Virginia Woolf and the Plato we
-    have read. What patterns do you notice? What issues do you encounter?
+  - Humanities Data Analysis: [Parsing and Manipulating Structured Data](https://www.humanitiesdataanalysis.org/getting-data/notebook.html)
+  - **Word counting lab**: Using the Python that you have learned so far, find the most
+    frequent words in Virginia Woolf's "On Not Knowing Greek." What patterns do you notice?
+    What happens when you filter out stopwords? What issues do you encounter? Can
+    you plot your results using Excel?
   - **Homework**
-    - Woolf, Virginia. 1925. "On Not Knowing Greek."
+    - Woolf, Virginia. 1925. "On Not Knowing Greek." https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek
     - Plato, _Phaedrus_ (first half)
     - Finish **Word counting lab**. **Be prepared to share your work with the
       class next time.**
@@ -270,19 +268,21 @@ and resources.
 ### 5. October 19
 
 - Lab presentations
-- Programming with Python
-  - More practice with XML and JSON
-  - How to read documentation
-  - **Homework**
-    - Plato, _Phaedrus_ (second half)
+- Collaborative DH project review
+  - Using the guidelines published by DH at Berkeley <https://live-digital-humanities-berkeley.pantheon.berkeley.edu/resources/technical-evaluation-digital-humanities-projects>, you will evaluate one of the projects
+  from the 2025 DH awards: http://dhawards.org/dhawards2025/results/.
+  Working in groups of 3 or 4, submit a 2– to 3–page evaluation before the next class.
+- **Homework**
+  - Plato, _Phaedrus_ (second half)
+  - Finish collaborative DH evaluations
 
 ### 6. October 26
 
 - Reading quiz
 - Programming with Python
-  - Introduction to Pandas
-  - Series and DataFrames
+  - Introduction to Pandas: Humanities Data Analysis: [Processing Tabular Data](https://www.humanitiesdataanalysis.org/working-with-data/notebook.html)
   - More practice reading documentation
+  - Portfolio updates
 - **Homework**
   - Plato, _Theaetetus_ (selections)
   - Da, Nan Z. “The Computational Case against Computational Literary Studies.”
@@ -304,8 +304,8 @@ and resources.
 ### 8. November 9
 
 - Programming with Python
+  - Further practice with Pandas: Humanities Data Analysis: [Processing Tabular Data](https://www.humanitiesdataanalysis.org/working-with-data/notebook.html)
   - Introduction to data visualization with Altair
-  - Further practice with Pandas
 - **Homework**
   - Altair documentation: critical practice and reflection
   - Dombroski, Quinn. "Does Coding Matter for Doing Digital Humanities?" (BHDH
@@ -321,7 +321,7 @@ and resources.
     you catch any errors?
 - **Homework**
   - Finish **Visualization lab**
-  - Readings on data visualization TBD
+  - Plato, _Republic_ (selections)
 
 ### 10. November 23
 

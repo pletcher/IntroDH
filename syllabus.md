@@ -316,9 +316,13 @@ and resources.
 - Programming with Python
   - Further practice with Altair and DataFrames
   - **Visualization lab**: Visualize the most frequent words in the Plato that
-    we have read so far. Do the visualizations help you spot any patterns? What
+    we have read so far. (You can use the Project Gutenberg translations.)
+    Do the visualizations help you spot any patterns? What
     follow-up experiments do the visualizations prompt? Did visualization help
-    you catch any errors?
+    you catch any errors? You will be evaluated on the legibility of your visualizations
+    and on your creativity — try to think beyond bar charts. For example, can you visualize
+    word occurrences over time? Try https://beta.voyant-tools.org if you need additional ideas
+    for your visualizations.
 - **Homework**
   - Finish **Visualization lab**
   - Plato, _Republic_ (selections)
@@ -335,12 +339,22 @@ and resources.
 ### 11. November 30
 
 - Programming with Python
-  - **Mapping lab**: Using data from
-    [ToposText](https://topostext.org/TT-downloads), map key placenames from
-    Pausanias, Book 1. How do you identify _key_ places? What other tools will
-    you need to use to complete this lab?
+  - **Corpus Analysis lab**: Follow along with https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy. After you have finished, write a critical reflection of the
+  lesson. What worked, and what didn't? What other tools or resources did you need
+  or did you find helpful? How would you go about preparing your own corpus for a
+  similar analysis? Your reflection should be 1– to 2–pages long.
+  - Prepare your own corpus: use the plain text versions of Pausanias on Project Gutenberg to prepare
+  your own corpus for analysis.
+    - https://www.gutenberg.org/ebooks/68946
+    - https://www.gutenberg.org/ebooks/68680
+  - Can you automate the process of splitting the text into books
+    and chapters? Are you able to complete the lab on this new corpus?
+  - Even if you are unable to finish the lab on the Pausanias corpus, prepare
+    a presentation for the class detailing your methods and implementation.
+    What new challenges did you encounter? Assuming you have never read Pausanias
+    before, what did you learn?
 - **Homework**
-  - Finish **Mapping lab**
+  - Finish **Corpus Analysis lab**
   - Herrmann, J Berenike. “Tool Criticism in Practice. On Methods, Tools and
     Aims of Computational Literary Studies.” _Digital Humanities Quarterly_ 17,
     no. 2 (2023).

@@ -253,15 +253,15 @@ and resources.
 - Reading quiz
 - Programming with Python
   - Humanities Data Analysis: [Parsing and Manipulating Structured Data](https://www.humanitiesdataanalysis.org/getting-data/notebook.html)
-  - **Word counting lab**: Using the Python that you have learned so far, find the most
+- **Word counting lab**: Using the Python that you have learned so far, find the most
     frequent words in Virginia Woolf's "On Not Knowing Greek." What patterns do you notice?
     What happens when you filter out stopwords? What issues do you encounter? Can
     you plot your results using Excel?
-  - **Homework**
-    - Woolf, Virginia. 1925. "On Not Knowing Greek." https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek
-    - Plato, _Phaedrus_ (first half)
-    - Finish **Word counting lab**. **Be prepared to share your work with the
-      class next time.**
+- **Homework**
+  - Woolf, Virginia. 1925. "On Not Knowing Greek." https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek
+  - Plato, _Phaedrus_ (first half)
+  - Finish **Word counting lab**. **Be prepared to share your work with the
+    class next time.**
 
 ### No class October 12 – Indigenous Peoples' Day
 
@@ -315,14 +315,14 @@ and resources.
 
 - Programming with Python
   - Further practice with Altair and DataFrames
-  - **Visualization lab**: Visualize the most frequent words in the Plato that
-    we have read so far. (You can use the Project Gutenberg translations.)
-    Do the visualizations help you spot any patterns? What
-    follow-up experiments do the visualizations prompt? Did visualization help
-    you catch any errors? You will be evaluated on the legibility of your visualizations
-    and on your creativity — try to think beyond bar charts. For example, can you visualize
-    word occurrences over time? Try https://beta.voyant-tools.org if you need additional ideas
-    for your visualizations.
+- **Visualization lab**: Visualize the most frequent words in the Plato that
+  we have read so far. (You can use the Project Gutenberg translations.)
+  Do the visualizations help you spot any patterns? What
+  follow-up experiments do the visualizations prompt? Did visualization help
+  you catch any errors? You will be evaluated on the legibility of your visualizations
+  and on your creativity — try to think beyond bar charts. For example, can you visualize
+  word occurrences over time? Try https://beta.voyant-tools.org if you need additional ideas
+  for your visualizations.
 - **Homework**
   - Finish **Visualization lab**
   - Plato, _Republic_ (selections)

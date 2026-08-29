@@ -306,6 +306,14 @@ and resources.
 
 ### 9. November 16
 
+- Intro to GIS with guest lecturer Carolyn Talmadge
+- **Homework**
+  - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” In
+    _Illuminations_, edited by Hannah Arendt, translated by Harry Zohn. Schocken
+    Books, 1969.
+
+### 10. November 23
+
 - **Visualization lab**: Visualize the most frequent words in the Plato that
   we have read so far. (You can use the Project Gutenberg translations.)
   Do the visualizations help you spot any patterns? What
@@ -318,14 +326,6 @@ and resources.
   - Finish **Visualization lab**
   - Sichani, Anna-Maria. "Embracing Decline in Digital Scholarship beyond
     Sustainability." (BHDH pp. 317–324)
-
-### 10. November 23
-
-- Intro to GIS with guest lecturer Carolyn Talmadge
-- **Homework**
-  - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” In
-    _Illuminations_, edited by Hannah Arendt, translated by Harry Zohn. Schocken
-    Books, 1969.
 
 ### 11. November 30
 

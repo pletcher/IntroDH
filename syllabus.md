@@ -263,6 +263,7 @@ and resources.
 
 - Lab presentations
 - Collaborative DH project review
+  - As a class, we will look at https://ships.lib.virginia.edu/neatline/show/iliad-book-2. Who is the target audience? What aids does the site provide for a user? What other aids might we need for this site to be useful beyond its intended audience?
   - Using the guidelines published by DH at Berkeley <https://live-digital-humanities-berkeley.pantheon.berkeley.edu/resources/technical-evaluation-digital-humanities-projects>, you will evaluate one of the projects
   from the 2025 DH awards: http://dhawards.org/dhawards2025/results/.
   Working in groups of 3 or 4, submit a 2– to 3–page evaluation before the next class.

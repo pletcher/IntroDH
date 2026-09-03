@@ -131,6 +131,10 @@ video to share it outside the course. All of this content
 is freely available on GitHub under a Creative Commons license — attribution is
 all that is required.
 
+### Late work
+
+Late work will not be accepted unless prior arrangements are made.
+
 ## Resources
 
 ### Religious accommodations

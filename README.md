@@ -5,8 +5,8 @@
 - Time: M 1:30–4 p.m.
 - Location: Eaton 225
 - Instructor: Charles Pletcher (<charles.pletcher@tufts.edu>)
-- Instructor office hours: M 11 a.m. to 1 p.m. and by appointment
-- TA: Christopher Petrik
+- Instructor office hours: T 11 a.m. to 1 p.m. and by appointment
+- TA: Christopher Petrik (<christopher.petrik@tufts.edu>)
 - TA office hours: F 12 p.m. to 2 p.m.
 
 ## Prerequisites
@@ -37,6 +37,16 @@ humanities and engage in code criticism.
 
 Assessments include weekly quizzes, collaborative projects, a midterm, and a
 final exam.
+
+## Outcomes
+
+By the end of this course, students will be able (among other skills)
+
+- to write and analyze basic programs in Python
+- to encode and read data in a variety of formats
+- to describe the breadth of digital humanities
+- to critique digital humanities projects and methods
+- to connect literary and historical inquiry with digital methods
 
 ## Textbooks
 

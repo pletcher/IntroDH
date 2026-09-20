@@ -211,7 +211,6 @@ and resources.
   - Variables
   - File I/O
 - **Homework**
-  - Plato, _Cratylus_
   - Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of
     Media-Specific Analysis.” _Poetics Today_ 25, no. 1 (2004): 67–90.
 
@@ -240,7 +239,7 @@ and resources.
     you plot your results using Excel?
 - **Homework**
   - Woolf, Virginia. 1925. "On Not Knowing Greek." https://www.gutenberg.org/cache/epub/64457/pg64457-images.html#On_Not_Knowing_Greek
-  - Plato, _Phaedrus_ 227a–257b
+  - Plato, _Phaedrus_ [227a–257b](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0059.tlg012.perseus-eng2:227/)
   - Finish **Word counting lab**. **Be prepared to share your work with the
     class next time.**
 
@@ -255,7 +254,7 @@ and resources.
   from the 2025 DH awards: http://dhawards.org/dhawards2025/results/.
   Working in groups of 3 or 4, submit a 2– to 3–page evaluation before the next class.
 - **Homework**
-  - Plato, _Phaedrus_ 257b–279c (end)
+  - Plato, _Phaedrus_ [257b–279c](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0059.tlg012.perseus-eng2:257/) (end)
   - Finish collaborative DH evaluations
 
 ### 6. October 26
@@ -265,7 +264,7 @@ and resources.
   - Introduction to Pandas: Humanities Data Analysis: [Processing Tabular Data](https://www.humanitiesdataanalysis.org/working-with-data/notebook.html)
   - Practice reading documentation: In your own words, explain how Pandas' `DataFrame.groupby` method works
 - **Homework**
-  - Plato, _Theaetetus_ 192a–210d (end)
+  - Plato, _Theaetetus_ [192a–210d](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0059.tlg006.perseus-eng2:192/) (end)
   - Da, Nan Z. “The Computational Case against Computational Literary Studies.”
     _Critical Inquiry_ 45, no. 3 (2019): 601–39.
     <https://doi.org/10.1086/702594>.
@@ -333,7 +332,7 @@ and resources.
     before, what did you learn?
 - **Homework**
   - Finish **Corpus Analysis lab**
-  - Herrmann, J Berenike. “Tool Criticism in Practice. On Methods, Tools and
+  - Herrmann, J. Berenike. “Tool Criticism in Practice. On Methods, Tools and
     Aims of Computational Literary Studies.” _Digital Humanities Quarterly_ 17,
     no. 2 (2023).
   - Kemman, Max. “Tool Criticism through Playful Digital Humanities Pedagogy.”

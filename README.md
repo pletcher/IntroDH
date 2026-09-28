@@ -201,7 +201,12 @@ and resources.
 - Basic Colab operations
 - **Homework**
   - Plato, _Ion_
-  - Posner, Miriam. 2014. "How did they make that?"
+  - Posner, Miriam. 2014. ["How did they make that?"](https://miriamposner.com/blog/how-did-they-make-that/)
+
+#### Essential questions
+
+- What distinction does Socrates draw between skill (_technē_) and knowledge (_epistēmē_) in the _Ion_?
+- Choose one of the projects that Posner highlights. What drew you to this project? Do you already have the skills to undertake a similar project? If so, how might you build on the project? If not, how would you go about obtaining those skills? (Are Posner's suggestions under "Getting started" sufficient?)
 
 ### 2. September 21
 
@@ -213,6 +218,12 @@ and resources.
 - **Homework**
   - Hayles, N. Katherine. “Print Is Flat, Code Is Deep: The Importance of
     Media-Specific Analysis.” _Poetics Today_ 25, no. 1 (2004): 67–90.
+
+#### Essential questions
+
+- How do analogue hypertexts work, according to Hayles?
+- How might Hayles' argument need to be updated after the advent of AI?
+- What are some of the basic data types and structures in Python?
 
 ### 3. September 28
 
@@ -227,6 +238,12 @@ and resources.
   - The built-in `collections` module
 - **Homework**
   - Moretti, Franco. 2003. “Graphs, Maps, Trees – 1.” _New Left Review_ 24: 67–93.
+
+#### Essential questions
+
+- How does Moretti explain trends in the novel?
+- To what other fields might we be able to apply Moretti's computational methods?
+- Why might you want to use an external library in Python?
 
 ### 4. October 5
 

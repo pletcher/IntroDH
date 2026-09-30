@@ -234,7 +234,6 @@ and resources.
   - Lists and dictionaries review
   - Modules, classes, and functions
   - Installing external libraries
-  - Data formats (JSON and XML)
   - The built-in `collections` module
 - **Homework**
   - Moretti, Franco. 2003. “Graphs, Maps, Trees – 1.” _New Left Review_ 24: 67–93.
@@ -333,7 +332,8 @@ and resources.
 ### 11. November 30
 
 - Programming with Python
-  - **Corpus Analysis lab**: Follow along with https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy. After you have finished, write a critical reflection of the
+  - **Corpus Analysis lab**: Follow along with https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy.
+  After you have finished, write a critical reflection of the
   lesson. What worked, and what didn't? What other tools or resources did you need
   or did you find helpful? How would you go about preparing your own corpus for a
   similar analysis? Your reflection should be 1– to 2–pages long.
@@ -349,8 +349,8 @@ and resources.
     before, what did you learn?
 - **Homework**
   - Finish **Corpus Analysis lab**
-  - Herrmann, J. Berenike. “Tool Criticism in Practice. On Methods, Tools and
-    Aims of Computational Literary Studies.” _Digital Humanities Quarterly_ 17,
+  - Herrmann, J. Berenike. "Tool Criticism in Practice. On Methods, Tools and
+    Aims of Computational Literary Studies." _Digital Humanities Quarterly_ 17,
     no. 2 (2023).
   - Kemman, Max. “Tool Criticism through Playful Digital Humanities Pedagogy.”
     (BHDH pp. 287–294)

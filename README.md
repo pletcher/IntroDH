@@ -5,7 +5,7 @@
 - Time: M 1:30–4 p.m.
 - Location: Eaton 225
 - Instructor: Charles Pletcher (<charles.pletcher@tufts.edu>)
-- Instructor office hours: T 11 a.m. to 1 p.m. and by appointment
+- Instructor office hours: T 1:30 p.m. to 3:30 p.m. and by appointment
 - TA: Christopher Petrik (<christopher.petrik@tufts.edu>)
 - TA office hours: F 12 p.m. to 2 p.m.
 

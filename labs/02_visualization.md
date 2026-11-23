@@ -5,44 +5,53 @@ geometry: margin=1in
 # Visualization Lab: Word Patterns in Plato
 
 In the last lab, you counted the most frequent words in Woolf's
-"On Not Knowing Greek." Now you'll reuse that code on the Plato dialogues
-we've read and explore how visualization can reveal patterns (and errors)
-that lists of numbers hide.
+"On Not Knowing Greek." Now we're going to explore different ways
+of visualizing frequencies — and related calculations — in the
+Platonic corpus.
 
-## Part 1: Reuse your code
-1. Turn your cleaning and counting code from the Woolf lab into functions,
-   such as `clean_text(text)` and `count_words(words, stopwords)`.
-2. Test them on the Woolf essay. **Checkpoint:** Do you get the same
-   results as last time?
+## Part 1: Get the texts (optional)
 
-## Part 2: Prepare the Plato texts
-1. Download the dialogues we've read from Project Gutenberg
-   (Jowett translations). Save each dialogue as its own `.txt` file.
-2. **Watch out:** Jowett's translations begin with a long introduction
-   written by Jowett, not Plato. Remove it, along with the Gutenberg
-   header and footer.
-3. **Checkpoint:** Print the first and last 200 characters of each file.
-   Does each one begin and end with Plato's text?
-4. Add any new issues to your troubleshooting log from the Woolf lab.
+You can find a zip archive of the Perseus Digital Library's
+English translations of Plato (including the spurious Letters)
+on [Canvas](https://canvas.tufts.edu/courses/77052/files/folder/Week%2010%20-%20November%2023).
 
-## Part 3: A first look
-1. Make a simple bar chart of the top 20 words (after stopwords) for
-   one dialogue.
-2. **Reflect:** Is anything in your top 20 an artifact of the text's
-   format rather than its content? (Hint: how are dialogues written on
-   the page?) Decide how to handle it, and explain your choice.
+Download the archive to your computer. You don't need to unzip it.
 
-## Part 4: Sketch before you code
-Choose one question you want your visualization to answer. For example:
-- Where in a dialogue does a key word (e.g., "soul," "justice," "love")
-  appear?
-- How does vocabulary differ between two dialogues?
-- How does Plato's vocabulary compare with Woolf's?
+## Part 2: "Upload" the texts to Voyant
 
-Sketch your visualization on paper. Label the axes and note what a
-reader should notice.
+Rather than upload multiple copies of the same corpus multiple
+times to Voyant, we'll all use the corpus that I've already created:
+[Plato on Voyant](https://voyant-tools.org/?corpus=18a6e6e04618763540e3cb64404ae2d9).
+
+You can use this link if you'd like to return to it later. If you modify
+the corpus — to exclude the Letters, for example — you might want to
+create your own instance for experimentation.
+
+## Part 3: Play
+
+Test out the Voyant interface. What can you see at a glance? What is confusing?
+
+[!IMPORTANT]
+Write a short list of features that jump out to you, including notes
+about how you might use them or what you find confusing. Do you
+notice any problems that might be coming from the texts themselves?
+
+## Part 4: Think
+
+What kinds of questions do you want to ask of the corpus?
+What visualizations would you use to guide your answers to these questions?
+
+For example, can you find where a key word (e.g., "know", "justice", "soul")
+appears in a dialogue? Or how vocabulary and keywords change from dialogue
+to dialogue?
+
+[!IMPORTANT]
+Write a plan for two experiments that you'd like to conduct with this
+corpus. You can always revise the plan later, but be as detailed as
+possible here.
 
 ## Part 5: Build at least two visualizations
+
 Choose from the menu below, or propose your own. At least one should go
 beyond a bar chart.
 
@@ -54,11 +63,8 @@ beyond a bar chart.
 | Advanced | Heatmap of key words across all dialogues in reading order | How do themes shift over the course? |
 | Advanced | Comparison with Woolf's essay | What does "Greek" look like from each side? |
 
-You may want use Python (matplotlib), Excel, or
-[Voyant Tools](https://beta.voyant-tools.org). If you use Voyant, compare
-its results with your own code's output and explain any differences.
-
 ## Part 6: Legibility checklist
+
 Before submitting, check each visualization:
 
 - [ ] Descriptive title
@@ -68,6 +74,7 @@ Before submitting, check each visualization:
 - [ ] One-sentence caption stating the main takeaway
 
 ## Part 7: Reflection (1–2 paragraphs)
+
 - What patterns did your visualizations reveal?
 - Did visualization help you catch any errors? Describe one.
 - What follow-up experiment would you run next, and why?
@@ -82,3 +89,9 @@ Before submitting, check each visualization:
 | **Creativity and fit** | Goes beyond bar charts; visualization choice clearly matches the question | At least one non-bar-chart visualization | Only bar charts, but well made | Visualization doesn't match the question |
 | **Error detection** | Documents errors caught through visualization and explains fixes | Notes at least one error and fix | Mentions errors vaguely | No discussion of errors |
 | **Interpretation and follow-up** | Insightful patterns, a concrete follow-up experiment, and attention to translation | Identifies patterns and proposes a follow-up | Describes charts without interpreting | No reflection |
+
+## Extra credit
+
+For an additional point (+10%) on this assignment, create additional visualizations using
+Google Colab and Python. You can use `matplotlib`, which is built-in, or a library
+like [Altair](https://altair-viz.github.io) or [Seaborn](https://seaborn.pydata.org).

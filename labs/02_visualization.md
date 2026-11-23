@@ -31,10 +31,10 @@ create your own instance for experimentation.
 
 Test out the Voyant interface. What can you see at a glance? What is confusing?
 
-[!IMPORTANT]
-Write a short list of features that jump out to you, including notes
-about how you might use them or what you find confusing. Do you
-notice any problems that might be coming from the texts themselves?
+> [!IMPORTANT]
+> Write a short list of features that jump out to you, including notes
+> about how you might use them or what you find confusing. Do you
+> notice any problems that might be coming from the texts themselves?
 
 ## Part 4: Think
 
@@ -45,10 +45,10 @@ For example, can you find where a key word (e.g., "know", "justice", "soul")
 appears in a dialogue? Or how vocabulary and keywords change from dialogue
 to dialogue?
 
-[!IMPORTANT]
-Write a plan for two experiments that you'd like to conduct with this
-corpus. You can always revise the plan later, but be as detailed as
-possible here.
+> [!IMPORTANT]
+> Write a plan for two experiments that you'd like to conduct with this
+> corpus. You can always revise the plan later, but be as detailed as
+> possible here.
 
 ## Part 5: Build at least two visualizations
 

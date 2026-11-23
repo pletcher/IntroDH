@@ -60,7 +60,7 @@ beyond a bar chart.
 | Starter | Side-by-side bar charts for two dialogues | How do their top words differ? |
 | Intermediate | Word occurrences across a dialogue, split into 10 equal chunks (line chart) | Where does a theme appear or fade? |
 | Intermediate | Dispersion plot showing each occurrence of a word by position | Are words clustered or spread out? |
-| Advanced | Heatmap of key words across all dialogues in reading order | How do themes shift over the course? |
+| Advanced | Heatmap of key words across all dialogues in reading order | How do themes shift over the corpus? |
 | Advanced | Comparison with Woolf's essay | What does "Greek" look like from each side? |
 
 ## Part 6: Legibility checklist
@@ -84,7 +84,7 @@ Before submitting, check each visualization:
 
 | Criterion | Excellent (4) | Proficient (3) | Developing (2) | Beginning (1) |
 |---|---|---|---|---|
-| **Code reuse and text prep** | Reusable functions; texts cleanly prepared, including introductions and speaker labels | Functions reused; most prep issues handled | Some reuse; notable prep errors remain | No reuse; texts not prepared |
+| **Text prep** | Texts cleanly prepared, including introductions and speaker labels | Most prep issues handled | Notable prep errors remain | Texts not prepared |
 | **Legibility** | All checklist items met; takeaway is immediately clear | Most checklist items met | Several checklist items missing | Hard to read or interpret |
 | **Creativity and fit** | Goes beyond bar charts; visualization choice clearly matches the question | At least one non-bar-chart visualization | Only bar charts, but well made | Visualization doesn't match the question |
 | **Error detection** | Documents errors caught through visualization and explains fixes | Notes at least one error and fix | Mentions errors vaguely | No discussion of errors |
